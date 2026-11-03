@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+*.csv
+*.pkl
+*.h5
+stock_models/
+stock_plots/
+risk_analysis_plots/
+event_study_plots/
